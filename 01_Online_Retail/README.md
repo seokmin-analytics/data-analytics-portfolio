@@ -13,10 +13,10 @@
 
 ## 프로젝트 구성
 
-📄 분석노트 (Project 02 - Analysis Report.pdf)
+📄 [분석노트](Project%2002%20-%20Analysis%20Report.pdf)
 
-📊 발표자료 (Project 02 - online_retail.pdf)
+📊 [발표자료](Project%2002%20-%20online_retail.pdf)
 
-💻 Python 코드 (python)
+💻 [Python 코드](python/)
 
-🗄 SQL 코드 (sql)
+🗄 [SQL 코드](sql/)
