@@ -1,4 +1,4 @@
-# Online Retail Customer Segmentation
+ Online Retail Customer Segmentation
 
 ## 프로젝트 소개
 
@@ -13,9 +13,9 @@
 
 ## 프로젝트 구성
 
-📄 [분석노트](Project%2002%20-%20Analysis%20Report.pdf)
+📄 [분석노트](Analysis%20Report.pdf)
 
-📊 [발표자료](Project%2002%20-%20online_retail.pdf)
+📊 [발표자료](presentation.pdf)
 
 💻 [Python 코드](python/)
 
