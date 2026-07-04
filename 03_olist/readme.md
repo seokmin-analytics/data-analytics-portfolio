@@ -19,7 +19,7 @@
 
 ## 프로젝트 구성
 
-- 📄 [분석 보고서](analysis_report.pdf)
+- 📄 [분석 보고서](Analysis%20Report.pdf)
 - 📊 [발표 자료](presentation.pdf)
 - 💻 [Python 코드](python/)
 - 🗄 [SQL 코드](sql/)
