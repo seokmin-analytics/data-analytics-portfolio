@@ -19,9 +19,9 @@
 
 ## 프로젝트 구성
 
-- 📄 [분석 보고서](Project%2001%20-%20Analysis%20Report.pdf)
+- 📄 [분석 보고서](Analysis%20Report.pdf)
 
-- 📊 [발표 자료](Project%2001%20-%20Behavior%20Analysis.pdf)
+- 📊 [발표 자료](presentation.pdf)
   
 - 💻 [Python 코드](python/)
   
