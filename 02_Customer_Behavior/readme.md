@@ -19,10 +19,10 @@
 
 ## 프로젝트 구성
 
-📄 Analysis Report.pdf
+- 📄 [분석 보고서](Project%2001%20-%20Analysis%20Report.pdf)
 
-📊 Presentation.pdf
-
-💻 Python Code
-
-🗄 SQL
+- 📊 [발표 자료](Project%2001%20-%20Behavior%20Analysis.pdf)
+  
+- 💻 [Python 코드](python/)
+  
+- 🗄 [SQL 코드](sql/)
